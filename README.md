@@ -6,4 +6,4 @@
 2. Васильева Диана Васильевна
 3. Ромадановская Дарья Павловна
 
-## ![Baseline](https://drive.google.com/file/d/1xQdEK5i-iQo03OSco3av5OVr-nO6g_bB/view?usp=sharing)
+## ![Baseline](https://github.com/MarkDAHatson/deep_learning_2022_14t/blob/main/baseline.PNG)
