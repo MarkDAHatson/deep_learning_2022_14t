@@ -10,4 +10,5 @@
 
 ## Результат работы
 ![Пикча](https://github.com/MarkDAHatson/deep_learning_2022_14t/blob/main/detection_number.PNG)
+
 ![Пикча2](https://github.com/MarkDAHatson/deep_learning_2022_14t/blob/main/number_car.PNG)
