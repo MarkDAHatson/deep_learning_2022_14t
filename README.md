@@ -6,10 +6,10 @@
 2. Васильева Диана Васильевна
 3. Ромадановская Дарья Павловна
 
+## ![Baseline](https://github.com/MarkDAHatson/deep_learning_2022_14t/blob/main/baseline.PNG)
+
 ## Датасет
 TBDL 
-
-## ![Baseline](https://github.com/MarkDAHatson/deep_learning_2022_14t/blob/main/baseline.PNG)
 
 ## Результат работы
 ![Пикча](https://github.com/MarkDAHatson/deep_learning_2022_14t/blob/main/detection_number.PNG)
