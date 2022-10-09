@@ -6,4 +6,4 @@
 2. Васильева Диана Васильевна
 3. Ромадановская Дарья Павловна
 
-## ![Иллюстрация к проекту](https://postimg.cc/bdWMZWRN)
+## ![Иллюстрация к проекту](https://postimg.cc/bdWMZWRN](https://drive.google.com/file/d/1xQdEK5i-iQo03OSco3av5OVr-nO6g_bB/view?usp=sharing)
