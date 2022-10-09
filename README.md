@@ -9,4 +9,4 @@
 ## ![Baseline](https://github.com/MarkDAHatson/deep_learning_2022_14t/blob/main/baseline.PNG)
 
 ## Результат работы
-1[Пикча](https://github.com/MarkDAHatson/deep_learning_2022_14t/blob/main/detection_number.PNG)
+![Пикча](https://github.com/MarkDAHatson/deep_learning_2022_14t/blob/main/detection_number.PNG)
