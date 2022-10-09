@@ -7,3 +7,5 @@
 3. Ромадановская Дарья Павловна
 
 ## ![Baseline](https://github.com/MarkDAHatson/deep_learning_2022_14t/blob/main/baseline.PNG)
+
+## Результат работы
