@@ -10,7 +10,10 @@
 ## ![Baseline](https://github.com/MarkDAHatson/deep_learning_2022_14t/blob/main/baseline.PNG)
 
 ## Датасет
-TBDL 
+
+Датасет состоял из 433 изображений машин с иностранными номерами. Для распознавания мы посчитали не важным, что эти номера не российские. В датасете присутствуют фотографии номеров машин с различных ракурсов, при этом в кадре может быть и более, чем 1 номер.
+
+Ссылка на датасет: (https://www.kaggle.com/datasets/andrewmvd/car-plate-detection) 
 
 ## Результат работы
 ![Пикча](https://github.com/MarkDAHatson/deep_learning_2022_14t/blob/main/detection_number.PNG)
