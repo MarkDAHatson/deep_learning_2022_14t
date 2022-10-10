@@ -29,6 +29,7 @@ TBDL
 | yolov7    | tbdl  | tbdl    | tbdl  | tbdl  | tbdl   | tbdl       |
 
 Пример работы одной из моделей yolov5 (код - в папке):
+
 ![Пикча3](https://github.com/MarkDAHatson/deep_learning_2022_14t/blob/main/yolov5_ex.PNG)
 
 Наиболее оптимальное соотношение метрик качества и времени удалось получить при помощи yolov7, которая и является окончательным решением нашего проекта.
