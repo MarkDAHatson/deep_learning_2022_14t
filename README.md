@@ -38,6 +38,7 @@ https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
 Пример работы одной из моделей yolov5 (код - в папке):
 
 ![Пикча3](https://github.com/MarkDAHatson/deep_learning_2022_14t/blob/main/yolov5_ex.PNG)
+![Пикча4](https://github.com/MarkDAHatson/deep_learning_2022_14t/blob/main/f1_yolov7.png)
 
 Наиболее оптимальное соотношение метрик качества и времени удалось получить при помощи yolov7, которая и является окончательным решением нашего проекта.
 
