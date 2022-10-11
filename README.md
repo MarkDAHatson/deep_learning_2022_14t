@@ -22,6 +22,7 @@ https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
 ![Пикча2](https://github.com/MarkDAHatson/deep_learning_2022_14t/blob/main/number_car.PNG)
 
 Т777ВМ177
+
 ДОСТУП РАЗРЕШЁН
 
 ## Эксперименты с моделями
